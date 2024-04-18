@@ -1,0 +1,7 @@
+C:\Users\kru0142\Desktop\Tasks\ex8\ADONET\ADONETConsole\obj\Release\ADONETConsole.csprojAssemblyReference.cache
+C:\Users\kru0142\Desktop\Tasks\ex8\ADONET\ADONETConsole\obj\Release\ADONETConsole.csproj.CoreCompileInputs.cache
+C:\Users\kru0142\Desktop\Tasks\ex8\ADONET\ADONETConsole\bin\Release\ADONETConsole.exe.config
+C:\Users\kru0142\Desktop\Tasks\ex8\ADONET\ADONETConsole\bin\Release\ADONETConsole.exe
+C:\Users\kru0142\Desktop\Tasks\ex8\ADONET\ADONETConsole\bin\Release\ADONETConsole.pdb
+C:\Users\kru0142\Desktop\Tasks\ex8\ADONET\ADONETConsole\obj\Release\ADONETConsole.exe
+C:\Users\kru0142\Desktop\Tasks\ex8\ADONET\ADONETConsole\obj\Release\ADONETConsole.pdb

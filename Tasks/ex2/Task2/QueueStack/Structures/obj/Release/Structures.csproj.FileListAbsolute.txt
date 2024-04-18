@@ -1,0 +1,6 @@
+C:\Users\kru0142\Desktop\Tasks\ex2\Task2\QueueStack\Structures\bin\Release\Structures.dll
+C:\Users\kru0142\Desktop\Tasks\ex2\Task2\QueueStack\Structures\bin\Release\Structures.pdb
+C:\Users\kru0142\Desktop\Tasks\ex2\Task2\QueueStack\Structures\obj\Release\Structures.csprojAssemblyReference.cache
+C:\Users\kru0142\Desktop\Tasks\ex2\Task2\QueueStack\Structures\obj\Release\Structures.csproj.CoreCompileInputs.cache
+C:\Users\kru0142\Desktop\Tasks\ex2\Task2\QueueStack\Structures\obj\Release\Structures.dll
+C:\Users\kru0142\Desktop\Tasks\ex2\Task2\QueueStack\Structures\obj\Release\Structures.pdb

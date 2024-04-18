@@ -1,0 +1,7 @@
+C:\Users\kru0142\Desktop\Exam\Exam1\ExamConsole\obj\Debug\ExamConsole.csprojAssemblyReference.cache
+C:\Users\kru0142\Desktop\Exam\Exam1\ExamConsole\obj\Debug\ExamConsole.csproj.CoreCompileInputs.cache
+C:\Users\kru0142\Desktop\Exam\Exam1\ExamConsole\bin\Debug\ExamConsole.exe.config
+C:\Users\kru0142\Desktop\Exam\Exam1\ExamConsole\bin\Debug\ExamConsole.exe
+C:\Users\kru0142\Desktop\Exam\Exam1\ExamConsole\bin\Debug\ExamConsole.pdb
+C:\Users\kru0142\Desktop\Exam\Exam1\ExamConsole\obj\Debug\ExamConsole.exe
+C:\Users\kru0142\Desktop\Exam\Exam1\ExamConsole\obj\Debug\ExamConsole.pdb

@@ -1,0 +1,10 @@
+C:\Users\kru0142\Desktop\Tasks\ex3\Task3\QueueStack\QueueStackConsole\bin\Release\QueueStackConsole.exe.config
+C:\Users\kru0142\Desktop\Tasks\ex3\Task3\QueueStack\QueueStackConsole\bin\Release\QueueStackConsole.exe
+C:\Users\kru0142\Desktop\Tasks\ex3\Task3\QueueStack\QueueStackConsole\bin\Release\QueueStackConsole.pdb
+C:\Users\kru0142\Desktop\Tasks\ex3\Task3\QueueStack\QueueStackConsole\bin\Release\Structures.dll
+C:\Users\kru0142\Desktop\Tasks\ex3\Task3\QueueStack\QueueStackConsole\bin\Release\Structures.pdb
+C:\Users\kru0142\Desktop\Tasks\ex3\Task3\QueueStack\QueueStackConsole\obj\Release\QueueStackConsole.csprojAssemblyReference.cache
+C:\Users\kru0142\Desktop\Tasks\ex3\Task3\QueueStack\QueueStackConsole\obj\Release\QueueStackConsole.csproj.CoreCompileInputs.cache
+C:\Users\kru0142\Desktop\Tasks\ex3\Task3\QueueStack\QueueStackConsole\obj\Release\QueueStackConsole.csproj.CopyComplete
+C:\Users\kru0142\Desktop\Tasks\ex3\Task3\QueueStack\QueueStackConsole\obj\Release\QueueStackConsole.exe
+C:\Users\kru0142\Desktop\Tasks\ex3\Task3\QueueStack\QueueStackConsole\obj\Release\QueueStackConsole.pdb

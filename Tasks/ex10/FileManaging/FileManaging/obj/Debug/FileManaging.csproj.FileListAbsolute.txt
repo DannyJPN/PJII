@@ -1,0 +1,7 @@
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_II\S4\PJII\Tasks\ex10\FileManaging\FileManaging\bin\Debug\FileManaging.exe.config
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_II\S4\PJII\Tasks\ex10\FileManaging\FileManaging\bin\Debug\FileManaging.exe
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_II\S4\PJII\Tasks\ex10\FileManaging\FileManaging\bin\Debug\FileManaging.pdb
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_II\S4\PJII\Tasks\ex10\FileManaging\FileManaging\obj\Debug\FileManaging.csprojAssemblyReference.cache
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_II\S4\PJII\Tasks\ex10\FileManaging\FileManaging\obj\Debug\FileManaging.csproj.CoreCompileInputs.cache
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_II\S4\PJII\Tasks\ex10\FileManaging\FileManaging\obj\Debug\FileManaging.exe
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_II\S4\PJII\Tasks\ex10\FileManaging\FileManaging\obj\Debug\FileManaging.pdb

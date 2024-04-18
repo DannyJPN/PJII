@@ -1,0 +1,10 @@
+C:\Users\kru0142\Desktop\ex1\Task1\Task1\obj\Debug\Cons1.csprojAssemblyReference.cache
+C:\Users\kru0142\Desktop\ex1\Task1\Task1\obj\Debug\Cons1.csproj.CoreCompileInputs.cache
+C:\Users\kru0142\Desktop\ex1\Task1\Task1\bin\Debug\Lib1.dll
+C:\Users\kru0142\Desktop\ex1\Task1\Task1\bin\Debug\Lib1.pdb
+C:\Users\kru0142\Desktop\ex1\Task1\Task1\obj\Debug\Cons1.csproj.CopyComplete
+C:\Users\kru0142\Desktop\ex1\Task1\Task1\bin\Debug\Cons1.exe.config
+C:\Users\kru0142\Desktop\ex1\Task1\Task1\bin\Debug\Cons1.exe
+C:\Users\kru0142\Desktop\ex1\Task1\Task1\bin\Debug\Cons1.pdb
+C:\Users\kru0142\Desktop\ex1\Task1\Task1\obj\Debug\Cons1.exe
+C:\Users\kru0142\Desktop\ex1\Task1\Task1\obj\Debug\Cons1.pdb

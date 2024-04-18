@@ -1,0 +1,10 @@
+C:\Users\kru0142\Desktop\Tasks\ex1\Task1\Task1\bin\Release\Cons1.exe.config
+C:\Users\kru0142\Desktop\Tasks\ex1\Task1\Task1\bin\Release\Cons1.exe
+C:\Users\kru0142\Desktop\Tasks\ex1\Task1\Task1\bin\Release\Cons1.pdb
+C:\Users\kru0142\Desktop\Tasks\ex1\Task1\Task1\bin\Release\Lib1.dll
+C:\Users\kru0142\Desktop\Tasks\ex1\Task1\Task1\bin\Release\Lib1.pdb
+C:\Users\kru0142\Desktop\Tasks\ex1\Task1\Task1\obj\Release\Cons1.csprojAssemblyReference.cache
+C:\Users\kru0142\Desktop\Tasks\ex1\Task1\Task1\obj\Release\Cons1.csproj.CoreCompileInputs.cache
+C:\Users\kru0142\Desktop\Tasks\ex1\Task1\Task1\obj\Release\Cons1.csproj.CopyComplete
+C:\Users\kru0142\Desktop\Tasks\ex1\Task1\Task1\obj\Release\Cons1.exe
+C:\Users\kru0142\Desktop\Tasks\ex1\Task1\Task1\obj\Release\Cons1.pdb

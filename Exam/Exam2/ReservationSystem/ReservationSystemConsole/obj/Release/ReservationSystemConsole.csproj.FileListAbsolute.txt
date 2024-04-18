@@ -1,0 +1,10 @@
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_II\S4\PJII\Exam\Exam2\ReservationSystem\ReservationSystemConsole\bin\Release\ReservationSystemConsole.exe.config
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_II\S4\PJII\Exam\Exam2\ReservationSystem\ReservationSystemConsole\bin\Release\ReservationSystemConsole.exe
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_II\S4\PJII\Exam\Exam2\ReservationSystem\ReservationSystemConsole\bin\Release\ReservationSystemConsole.pdb
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_II\S4\PJII\Exam\Exam2\ReservationSystem\ReservationSystemConsole\bin\Release\ReservationSystemLibrary.dll
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_II\S4\PJII\Exam\Exam2\ReservationSystem\ReservationSystemConsole\bin\Release\ReservationSystemLibrary.pdb
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_II\S4\PJII\Exam\Exam2\ReservationSystem\ReservationSystemConsole\obj\Release\ReservationSystemConsole.csprojAssemblyReference.cache
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_II\S4\PJII\Exam\Exam2\ReservationSystem\ReservationSystemConsole\obj\Release\ReservationSystemConsole.csproj.CoreCompileInputs.cache
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_II\S4\PJII\Exam\Exam2\ReservationSystem\ReservationSystemConsole\obj\Release\ReservationSystemConsole.csproj.CopyComplete
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_II\S4\PJII\Exam\Exam2\ReservationSystem\ReservationSystemConsole\obj\Release\ReservationSystemConsole.exe
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_II\S4\PJII\Exam\Exam2\ReservationSystem\ReservationSystemConsole\obj\Release\ReservationSystemConsole.pdb

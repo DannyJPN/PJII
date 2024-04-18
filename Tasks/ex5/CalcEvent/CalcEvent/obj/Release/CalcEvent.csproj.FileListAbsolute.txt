@@ -1,0 +1,6 @@
+C:\Users\kru0142\Desktop\Tasks\ex5\CalcEvent\CalcEvent\bin\Release\CalcEvent.exe.config
+C:\Users\kru0142\Desktop\Tasks\ex5\CalcEvent\CalcEvent\bin\Release\CalcEvent.exe
+C:\Users\kru0142\Desktop\Tasks\ex5\CalcEvent\CalcEvent\bin\Release\CalcEvent.pdb
+C:\Users\kru0142\Desktop\Tasks\ex5\CalcEvent\CalcEvent\obj\Release\CalcEvent.csproj.CoreCompileInputs.cache
+C:\Users\kru0142\Desktop\Tasks\ex5\CalcEvent\CalcEvent\obj\Release\CalcEvent.exe
+C:\Users\kru0142\Desktop\Tasks\ex5\CalcEvent\CalcEvent\obj\Release\CalcEvent.pdb

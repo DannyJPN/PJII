@@ -1,0 +1,14 @@
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_II\S4\PJII\Exam\Exam2Practise\XMLException\XMLException\bin\Debug\XMLException.exe.config
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_II\S4\PJII\Exam\Exam2Practise\XMLException\XMLException\bin\Debug\XMLException.exe
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_II\S4\PJII\Exam\Exam2Practise\XMLException\XMLException\bin\Debug\XMLException.pdb
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_II\S4\PJII\Exam\Exam2Practise\XMLException\XMLException\obj\Debug\XMLException.csprojAssemblyReference.cache
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_II\S4\PJII\Exam\Exam2Practise\XMLException\XMLException\obj\Debug\XMLException.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_II\S4\PJII\Exam\Exam2Practise\XMLException\XMLException\obj\Debug\XMLException.exe
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_II\S4\PJII\Exam\Exam2Practise\XMLException\XMLException\obj\Debug\XMLException.pdb
+F:\Dropbox\UNI\VSB\VSBTUO\FEI\BC\Informační a komunikační technologie-Informatika a výpočetní technika\S4\Povinně volitelný\Programovací jazyky II\Exam\Exam2Practise\XMLException\XMLException\bin\Debug\XMLException.exe.config
+F:\Dropbox\UNI\VSB\VSBTUO\FEI\BC\Informační a komunikační technologie-Informatika a výpočetní technika\S4\Povinně volitelný\Programovací jazyky II\Exam\Exam2Practise\XMLException\XMLException\bin\Debug\XMLException.exe
+F:\Dropbox\UNI\VSB\VSBTUO\FEI\BC\Informační a komunikační technologie-Informatika a výpočetní technika\S4\Povinně volitelný\Programovací jazyky II\Exam\Exam2Practise\XMLException\XMLException\bin\Debug\XMLException.pdb
+F:\Dropbox\UNI\VSB\VSBTUO\FEI\BC\Informační a komunikační technologie-Informatika a výpočetní technika\S4\Povinně volitelný\Programovací jazyky II\Exam\Exam2Practise\XMLException\XMLException\obj\Debug\XMLException.csproj.AssemblyReference.cache
+F:\Dropbox\UNI\VSB\VSBTUO\FEI\BC\Informační a komunikační technologie-Informatika a výpočetní technika\S4\Povinně volitelný\Programovací jazyky II\Exam\Exam2Practise\XMLException\XMLException\obj\Debug\XMLException.csproj.CoreCompileInputs.cache
+F:\Dropbox\UNI\VSB\VSBTUO\FEI\BC\Informační a komunikační technologie-Informatika a výpočetní technika\S4\Povinně volitelný\Programovací jazyky II\Exam\Exam2Practise\XMLException\XMLException\obj\Debug\XMLException.exe
+F:\Dropbox\UNI\VSB\VSBTUO\FEI\BC\Informační a komunikační technologie-Informatika a výpočetní technika\S4\Povinně volitelný\Programovací jazyky II\Exam\Exam2Practise\XMLException\XMLException\obj\Debug\XMLException.pdb

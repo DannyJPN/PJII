@@ -1,0 +1,7 @@
+C:\Users\kru0142\Desktop\Tasks\ex5\CalcEvent\CalcEvent\bin\Debug\CalcEvent.exe.config
+C:\Users\kru0142\Desktop\Tasks\ex5\CalcEvent\CalcEvent\bin\Debug\CalcEvent.exe
+C:\Users\kru0142\Desktop\Tasks\ex5\CalcEvent\CalcEvent\bin\Debug\CalcEvent.pdb
+C:\Users\kru0142\Desktop\Tasks\ex5\CalcEvent\CalcEvent\obj\Debug\CalcEvent.csprojAssemblyReference.cache
+C:\Users\kru0142\Desktop\Tasks\ex5\CalcEvent\CalcEvent\obj\Debug\CalcEvent.csproj.CoreCompileInputs.cache
+C:\Users\kru0142\Desktop\Tasks\ex5\CalcEvent\CalcEvent\obj\Debug\CalcEvent.exe
+C:\Users\kru0142\Desktop\Tasks\ex5\CalcEvent\CalcEvent\obj\Debug\CalcEvent.pdb

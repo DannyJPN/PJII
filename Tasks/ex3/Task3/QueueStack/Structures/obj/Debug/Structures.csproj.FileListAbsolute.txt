@@ -1,0 +1,12 @@
+C:\Users\kru0142\Desktop\Tasks\ex2\Task2\QueueStack\Structures\bin\Debug\Structures.dll
+C:\Users\kru0142\Desktop\Tasks\ex2\Task2\QueueStack\Structures\bin\Debug\Structures.pdb
+C:\Users\kru0142\Desktop\Tasks\ex2\Task2\QueueStack\Structures\obj\Debug\Structures.csprojAssemblyReference.cache
+C:\Users\kru0142\Desktop\Tasks\ex2\Task2\QueueStack\Structures\obj\Debug\Structures.csproj.CoreCompileInputs.cache
+C:\Users\kru0142\Desktop\Tasks\ex2\Task2\QueueStack\Structures\obj\Debug\Structures.dll
+C:\Users\kru0142\Desktop\Tasks\ex2\Task2\QueueStack\Structures\obj\Debug\Structures.pdb
+C:\Users\kru0142\Desktop\Tasks\ex3\Task3\QueueStack\Structures\bin\Debug\Structures.dll
+C:\Users\kru0142\Desktop\Tasks\ex3\Task3\QueueStack\Structures\bin\Debug\Structures.pdb
+C:\Users\kru0142\Desktop\Tasks\ex3\Task3\QueueStack\Structures\obj\Debug\Structures.csprojAssemblyReference.cache
+C:\Users\kru0142\Desktop\Tasks\ex3\Task3\QueueStack\Structures\obj\Debug\Structures.csproj.CoreCompileInputs.cache
+C:\Users\kru0142\Desktop\Tasks\ex3\Task3\QueueStack\Structures\obj\Debug\Structures.dll
+C:\Users\kru0142\Desktop\Tasks\ex3\Task3\QueueStack\Structures\obj\Debug\Structures.pdb

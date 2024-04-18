@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding="utf-8"?>
+<addressbook owner="1">
+	<person id="1">
+		<firstname>Wolfgang</firstname>
+		<lastname>Beer</lastname>
+		<email>beer@uni-linz.at</email>
+	</person>
+	<person id="2">
+		<firstname>Dietrich</firstname>
+		<lastname>Birngruber</lastname>
+		<email>birngruber@uni-linz.at</email>
+	</person>
+	<person id="3">
+		<firstname>Hanspeter</firstname>
+		<lastname>Moessenboeck</lastname>
+		<email>moessenboeck@uni-linz.at</email>
+	</person>
+	<person id="4">
+		<firstname>Albrecht</firstname>
+		<lastname>Woess</lastname>
+		<email>woess@uni-linz.at</email>
+	</person>
+</addressbook>

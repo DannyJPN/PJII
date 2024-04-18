@@ -1,0 +1,6 @@
+C:\Users\kru0142\Desktop\Tasks\ex1\Task1\Lib1\bin\Release\Lib1.dll
+C:\Users\kru0142\Desktop\Tasks\ex1\Task1\Lib1\bin\Release\Lib1.pdb
+C:\Users\kru0142\Desktop\Tasks\ex1\Task1\Lib1\obj\Release\Lib1.csprojAssemblyReference.cache
+C:\Users\kru0142\Desktop\Tasks\ex1\Task1\Lib1\obj\Release\Lib1.csproj.CoreCompileInputs.cache
+C:\Users\kru0142\Desktop\Tasks\ex1\Task1\Lib1\obj\Release\Lib1.dll
+C:\Users\kru0142\Desktop\Tasks\ex1\Task1\Lib1\obj\Release\Lib1.pdb

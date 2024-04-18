@@ -1,0 +1,6 @@
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_II\S4\PJII\Exam\Exam2\ReservationSystem\ReservationSystemLibrary\bin\Debug\ReservationSystemLibrary.dll
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_II\S4\PJII\Exam\Exam2\ReservationSystem\ReservationSystemLibrary\bin\Debug\ReservationSystemLibrary.pdb
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_II\S4\PJII\Exam\Exam2\ReservationSystem\ReservationSystemLibrary\obj\Debug\ReservationSystemLibrary.csprojAssemblyReference.cache
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_II\S4\PJII\Exam\Exam2\ReservationSystem\ReservationSystemLibrary\obj\Debug\ReservationSystemLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_II\S4\PJII\Exam\Exam2\ReservationSystem\ReservationSystemLibrary\obj\Debug\ReservationSystemLibrary.dll
+C:\Users\Dan Krupa\Dropbox\UNI\VSB\VSB\BC_IVT_II\S4\PJII\Exam\Exam2\ReservationSystem\ReservationSystemLibrary\obj\Debug\ReservationSystemLibrary.pdb

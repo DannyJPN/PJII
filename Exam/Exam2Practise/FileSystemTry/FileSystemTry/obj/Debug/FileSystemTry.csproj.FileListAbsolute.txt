@@ -1,0 +1,7 @@
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_II\S4\PJII\Exam\Exam2Practise\FileSystemTry\FileSystemTry\bin\Debug\FileSystemTry.exe.config
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_II\S4\PJII\Exam\Exam2Practise\FileSystemTry\FileSystemTry\bin\Debug\FileSystemTry.exe
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_II\S4\PJII\Exam\Exam2Practise\FileSystemTry\FileSystemTry\bin\Debug\FileSystemTry.pdb
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_II\S4\PJII\Exam\Exam2Practise\FileSystemTry\FileSystemTry\obj\Debug\FileSystemTry.csprojAssemblyReference.cache
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_II\S4\PJII\Exam\Exam2Practise\FileSystemTry\FileSystemTry\obj\Debug\FileSystemTry.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_II\S4\PJII\Exam\Exam2Practise\FileSystemTry\FileSystemTry\obj\Debug\FileSystemTry.exe
+C:\Users\Stanislav\Dropbox\UNI\VSB\VSB\BC_IVT_II\S4\PJII\Exam\Exam2Practise\FileSystemTry\FileSystemTry\obj\Debug\FileSystemTry.pdb
